@@ -8,9 +8,12 @@ namespace ExecutePY
 {
     public class MainMVC
     {
-        public static void ParseXml(CaseXmlDocument xDocument, MainView mainBoxView)
+        private static CaseController xmlDocumentController;
+        private static CustomFormController customFormController;
+
+        public static void ManageCases(CaseXmlDocument xDocument, MainView mainBoxView)
         {
-            CaseController xmlDocumentController = new CaseController(xDocument, mainBoxView);
+            xmlDocumentController = new CaseController(xDocument, mainBoxView);
 
             xmlDocumentController.SetLocation(xDocument.Location);
             xmlDocumentController.LoadXml();
@@ -19,7 +22,22 @@ namespace ExecutePY
             xmlDocumentController.CheckCases();
 
             xmlDocumentController.SetViewCases();
+        }
 
+        public static void ManageControls(CustomTextBox customTextBox, CustomFlowLayoutPanel customFlowLayoutPanel, MainView mainBoxView)
+        {
+            customFormController = new CustomFormController(customTextBox, customFlowLayoutPanel, mainBoxView);
+
+            customFormController.SetTextBoxName(customTextBox.Name);
+            customFormController.SetTextBoxText(customTextBox.Text);
+
+            customFormController.SetSizeX(customTextBox.SizeX);
+            customFormController.SetSizeY(customTextBox.SizeY);
+
+            
+            customFormController.CreateTextBox();
+            customFormController.SetSize();
+            customFormController.AddTextBoxToFlowLayoutPanel();
         }
     }
 }

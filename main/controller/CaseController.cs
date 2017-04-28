@@ -97,7 +97,6 @@ namespace ExecutePY
                         dtOpened.ElementAt(i).Value.Replace("T", " ").Replace("Z", " ")));
             } 
         }
-
         public void SetViewCases()
         {
             mainBoxView.SetFbCases(activeCases);

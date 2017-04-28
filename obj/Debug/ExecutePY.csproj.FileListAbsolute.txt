@@ -12,3 +12,16 @@ C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-m
 C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.MainView.resources
 C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.MainSettingView.resources
 C:\Users\DELL\Desktop\Fogbugz.NotificationTool-master\Fogbugz.NotificationTool-master\obj\Debug\ExecutePY.NotificationView.resources
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\bin\Debug\fbNotifyTool.exe.config
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\fbNotifyTool.exe
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\fbNotifyTool.pdb
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\bin\Debug\fbNotifyTool.exe
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\bin\Debug\fbNotifyTool.pdb
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\ExecutePY.csprojResolveAssemblyReference.cache
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\ExecutePY.MainView.resources
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\ExecutePY.MainSettingView.resources
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\ExecutePY.NotificationView.resources
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\ExecutePY.Properties.Resources.resources
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\ExecutePY.SplashScreenView.resources
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\ExecutePY.StartupView.resources
+C:\Users\esniuolis\Documents\Visual Studio 2015\Projects\fbNotificationTool-Home\obj\Debug\ExecutePY.csproj.GenerateResource.Cache
